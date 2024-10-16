@@ -1,0 +1,12 @@
+New/Data
+data
+New/samples
+New/checkpoint
+New/checkpoint-old
+New/models
+*.pyc
+logs
+*-finetuned
+temp_training_data.txt
+__pycache__
+.venv
